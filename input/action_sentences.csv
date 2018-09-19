@@ -1,0 +1,1350 @@
+1096,,Blue original L
+1096,1,<Builder> Mission has started.
+1096,2,<Architect> hello
+1096,3,<Builder> hello
+1096,4,<Architect> are u rdy to get to work?
+1096,5,<Builder> yes
+1096,6,<Architect> ok
+1096,7,<Architect> build a 2x1 structure that is blue
+1096,8,<Builder> is the structure extending upwards?
+1096,9,"<Architect> no, it goes across"
+1096,10,[Builder puts down a blue block at X:0 Y:1 Z:-2]
+1096,11,[Builder puts down a blue block at X:0 Y:1 Z:-3]
+1096,12,<Builder> is that good?
+1096,13,<Architect> now place 1 blue piece on the left block extending upwards
+1096,14,<Architect> yes that is correct
+1096,15,[Builder puts down a blue block at X:0 Y:2 Z:-2]
+1096,16,<Builder> like that?
+1096,17,"<Architect> yes, now it is finished"
+1096,18,<Builder> good job!
+1096,19,<Architect> you too builder
+1098,,3-30-flower-new
+1098,1,<Builder> Mission has started.
+1098,2,<Architect> hello again builder
+1098,3,<Builder> hello
+1098,4,<Architect> we will start using green blocks
+1098,5,"<Architect> i need you to build 4 green blocks straight from where you are standing, all on the ground"
+1098,6,[Builder puts down a green block at X:0 Y:1 Z:1]
+1098,7,[Builder puts down a green block at X:-1 Y:1 Z:1]
+1098,8,[Builder puts down a green block at X:1 Y:1 Z:1]
+1098,9,[Builder puts down a green block at X:2 Y:1 Z:1]
+1098,10,<Builder> like this?
+1098,11,<Architect> yes
+1098,12,"<Architect> now i need you to put a green block on either side of the second existing block, on the ground"
+1098,13,<Builder> so on the middle blocks?
+1098,14,[Builder puts down a green block at X:1 Y:1 Z:0]
+1098,15,[Builder puts down a green block at X:0 Y:1 Z:2]
+1098,16,"<Architect> they need to be attached to the same block, preferable to the one closer to you"
+1098,17,<Architect> so it looks like a cross
+1098,18,[Builder picks up a green block at X:0 Y:1 Z:2]
+1098,19,[Builder puts down a green block at X:1 Y:1 Z:2]
+1098,20,<Builder> like this?
+1098,21,<Architect> perfect
+1098,22,"<Architect> now, i need you to place a block diagonal from one of those new blocks, in the forward direction"
+1098,23,[Builder puts down a green block at X:0 Y:1 Z:-1]
+1098,24,[Builder puts down a green block at X:0 Y:1 Z:3]
+1098,25,<Builder> like a cactus?
+1098,26,<Architect> yes perfect
+1098,27,<Architect> now we are done with the green
+1098,28,<Architect> can you place a red block above the 4 greens with a space in between the green line and the new block?
+1098,29,[Builder puts down a red block at X:-5 Y:1 Z:1]
+1098,30,<Builder> here?
+1098,31,<Architect> just need 1 block space in between the green and the new red block
+1098,32,<Builder> oh i see
+1098,33,[Builder picks up a red block at X:-5 Y:1 Z:1]
+1098,34,[Builder puts down a red block at X:-3 Y:1 Z:1]
+1098,35,<Architect> yes like that
+1098,36,<Architect> now can you place 4 yellow blocks on each flat side of the red block?
+1098,37,[Builder puts down a yellow block at X:-3 Y:1 Z:0]
+1098,38,[Builder puts down a yellow block at X:-4 Y:1 Z:1]
+1098,39,[Builder puts down a yellow block at X:-3 Y:1 Z:2]
+1098,40,[Builder puts down a yellow block at X:-2 Y:1 Z:1]
+1098,41,<Builder> its a flower!
+1098,42,"<Architect> yes it is, you are very observant builder"
+1098,43,"<Architect> to finish, we need 4 orange blocks to fill in the corners of the 3x3 head of the flower"
+1098,44,[Builder puts down a orange block at X:-2 Y:1 Z:2]
+1098,45,[Builder puts down a orange block at X:-4 Y:1 Z:2]
+1098,46,[Builder puts down a orange block at X:-4 Y:1 Z:0]
+1098,47,[Builder puts down a orange block at X:-2 Y:1 Z:0]
+1098,48,"<Architect> good job builder, we have successfully completed our mission!"
+1098,49,<Builder> good job!
+1101,,3-30-table2
+1101,1,<Builder> Mission has started.
+1101,2,<Builder> hello. what are we building this time?
+1101,3,"<Architect> hello builder, one moment"
+1101,4,"<Architect> ok, to get started we need to place 4 orange blocks as if they are the corners of a 3x3 square, all of them on the ground"
+1101,5,<Builder> can i put them anywhere?
+1101,6,[Builder puts down a orange block at X:-5 Y:1 Z:-3]
+1101,7,[Builder puts down a orange block at X:-3 Y:1 Z:-3]
+1101,8,[Builder puts down a orange block at X:-5 Y:1 Z:-5]
+1101,9,"<Architect> yes, the rest of the structure extends upwards"
+1101,10,[Builder puts down a orange block at X:-3 Y:1 Z:-5]
+1101,11,<Architect> perfect
+1101,12,<Architect> one moment while i look at the structure
+1101,13,<Architect> the second level of the structure consists wholly of red blocks. 
+1101,14,<Architect> start by putting a red block on each orange block
+1101,15,[Builder puts down a red block at X:-5 Y:2 Z:-5]
+1101,16,[Builder puts down a red block at X:-5 Y:2 Z:-3]
+1101,17,[Builder puts down a red block at X:-3 Y:2 Z:-3]
+1101,18,[Builder puts down a red block at X:-3 Y:2 Z:-5]
+1101,19,"<Architect> good, now please fill in the outer sides of the second level 3x3 square but leave the middle open"
+1101,20,<Architect> using red blocks
+1101,21,<Builder> okay
+1101,22,[Builder puts down a red block at X:-3 Y:2 Z:-4]
+1101,23,[Builder puts down a red block at X:-4 Y:2 Z:-3]
+1101,24,[Builder puts down a red block at X:-4 Y:2 Z:-5]
+1101,25,[Builder puts down a red block at X:-5 Y:2 Z:-4]
+1101,26,"<Architect> good job builder, we have completed yet another flawless structure!"
+1101,27,<Builder> its a table?
+1101,28,<Builder> good job
+1101,29,<Architect> i don't know what it is
+1099,,3-30-overlapping-chain-links
+1099,1,<Builder> Mission has started.
+1099,2,<Builder> hello. Whats our mission this time?
+1099,3,<Architect> we have a difficult one ahead of us this time builder. bear with me
+1099,4,<Builder> describe the structure?
+1099,5,<Architect> we will start using red blocks. 
+1099,6,"<Architect> if you recall from our previous mission we built an open 3x3 square as the second level of our ""table"
+1099,7,<Architect> this shape is now extending upwards instead of laying flat
+1099,8,<Builder> okay
+1099,9,<Architect> sort of like a window
+1099,10,<Builder> can i build anywhere?
+1099,11,[Builder puts down a red block at X:1 Y:1 Z:1]
+1099,12,[Builder puts down a red block at X:0 Y:1 Z:1]
+1099,13,[Builder puts down a red block at X:-1 Y:1 Z:1]
+1099,14,[Builder puts down a red block at X:-1 Y:2 Z:1]
+1099,15,[Builder puts down a red block at X:1 Y:2 Z:1]
+1099,16,[Builder puts down a red block at X:1 Y:3 Z:1]
+1099,17,[Builder puts down a red block at X:0 Y:3 Z:1]
+1099,18,[Builder puts down a red block at X:-1 Y:3 Z:1]
+1099,19,<Architect> yes i think that will work
+1099,20,"<Architect> now please place a red block on the left and right sides of the window, in the middle of each side"
+1099,21,[Builder picks up a red block at X:1 Y:2 Z:1]
+1099,22,[Builder picks up a red block at X:-1 Y:2 Z:1]
+1099,23,<Builder> these ones?
+1099,24,<Architect> yes place them adjacent to those you just removed
+1099,25,[Builder picks up a red block at X:-1 Y:1 Z:1]
+1099,26,[Builder puts down a red block at X:-1 Y:1 Z:1]
+1099,27,[Builder puts down a red block at X:-1 Y:2 Z:1]
+1099,28,[Builder puts down a red block at X:1 Y:2 Z:1]
+1099,29,[Builder puts down a red block at X:-2 Y:2 Z:1]
+1099,30,[Builder puts down a red block at X:2 Y:2 Z:1]
+1099,31,<Architect> perfect
+1099,32,"<Architect> the second half of this structure is the same using purple blocks, but oriented differently."
+1099,33,<Architect> i will attempt to start you off step by step though
+1099,34,<Builder> so parallel?
+1099,35,<Builder> or perpendicular?
+1099,36,<Architect> it is attached to our current structure sort of parallel and rotated 90 degrees. 
+1099,37,<Architect> anyway please place the first purple block on the rightmost red block
+1099,38,[Builder puts down a purple block at X:-2 Y:1 Z:2]
+1099,39,[Builder puts down a purple block at X:-2 Y:1 Z:1]
+1099,40,[Builder puts down a purple block at X:-2 Y:1 Z:0]
+1099,41,<Builder> is it connected?
+1099,42,[Builder puts down a purple block at X:-2 Y:2 Z:0]
+1099,43,[Builder puts down a purple block at X:-2 Y:3 Z:0]
+1099,44,[Builder puts down a purple block at X:-2 Y:3 Z:1]
+1099,45,[Builder puts down a purple block at X:-2 Y:2 Z:2]
+1099,46,[Builder puts down a purple block at X:-2 Y:3 Z:2]
+1099,47,[Builder puts down a purple block at X:-2 Y:2 Z:3]
+1099,48,[Builder puts down a purple block at X:-2 Y:2 Z:-1]
+1099,49,<Architect> not quite
+1099,50,[Builder picks up a purple block at X:-2 Y:2 Z:-1]
+1099,51,[Builder picks up a purple block at X:-2 Y:2 Z:3]
+1099,52,[Builder picks up a purple block at X:-2 Y:3 Z:1]
+1099,53,[Builder picks up a purple block at X:-2 Y:3 Z:0]
+1099,54,[Builder picks up a purple block at X:-2 Y:3 Z:2]
+1099,55,<Architect> its as if they were laying side by side and the purple one gets tilted up 90 degrees so it faces the sky
+1099,56,[Builder picks up a purple block at X:-2 Y:2 Z:2]
+1099,57,[Builder picks up a purple block at X:-2 Y:1 Z:2]
+1099,58,[Builder picks up a purple block at X:-2 Y:1 Z:1]
+1099,59,[Builder picks up a purple block at X:-2 Y:1 Z:0]
+1099,60,[Builder picks up a purple block at X:-2 Y:2 Z:0]
+1099,61,<Builder> oh so its on the ground?
+1099,62,<Architect> we can start off with the first few blocks and you will see soon
+1099,63,"<Architect> the first purple block needs to be attached to the rightmost block, so that it hangs in the air and is closer to you"
+1099,64,[Builder puts down a purple block at X:-3 Y:2 Z:1]
+1099,65,<Builder> here?
+1099,66,<Architect> if you move that block to the other side of that red block so that it is on your side and not just an extension
+1099,67,[Builder picks up a purple block at X:-3 Y:2 Z:1]
+1099,68,[Builder puts down a purple block at X:-2 Y:2 Z:0]
+1099,69,<Architect> yes
+1099,70,<Builder> is this the arm of the window?
+1099,71,<Architect> nowplease make the open square (window) on top of that new purple block
+1099,72,<Architect> yes it is
+1099,73,[Builder puts down a purple block at X:-2 Y:3 Z:0]
+1099,74,[Builder puts down a purple block at X:-3 Y:3 Z:0]
+1099,75,[Builder puts down a purple block at X:-1 Y:3 Z:0]
+1099,76,[Builder puts down a purple block at X:-3 Y:4 Z:0]
+1099,77,[Builder puts down a purple block at X:-3 Y:5 Z:0]
+1099,78,[Builder puts down a purple block at X:-2 Y:5 Z:0]
+1099,79,[Builder puts down a purple block at X:-1 Y:5 Z:0]
+1099,80,[Builder puts down a purple block at X:-1 Y:4 Z:0]
+1099,81,[Builder puts down a purple block at X:-2 Y:6 Z:0]
+1099,82,<Builder> is this good?
+1099,83,<Architect> ok builder i have bad news but it's an easy fix
+1099,84,<Architect> i gave you the wrong side
+1099,85,<Builder> on the back or other side?
+1099,86,<Architect> if you could do that exact structure so that its on the left side of the red square from where you were standing it will be correct
+1099,87,[Builder puts down a purple block at X:2 Y:2 Z:0]
+1099,88,<Builder> here?
+1099,89,<Architect> yes
+1099,90,[Builder puts down a purple block at X:2 Y:3 Z:0]
+1099,91,[Builder puts down a purple block at X:1 Y:3 Z:0]
+1099,92,[Builder puts down a purple block at X:1 Y:4 Z:0]
+1099,93,[Builder picks up a purple block at X:-1 Y:5 Z:0]
+1099,94,[Builder picks up a purple block at X:-2 Y:5 Z:0]
+1099,95,[Builder picks up a purple block at X:-2 Y:6 Z:0]
+1099,96,[Builder picks up a purple block at X:-3 Y:5 Z:0]
+1099,97,[Builder picks up a purple block at X:-3 Y:4 Z:0]
+1099,98,[Builder picks up a purple block at X:-1 Y:4 Z:0]
+1099,99,[Builder picks up a purple block at X:-1 Y:3 Z:0]
+1099,100,[Builder picks up a purple block at X:-2 Y:3 Z:0]
+1099,101,[Builder picks up a purple block at X:-3 Y:3 Z:0]
+1099,102,[Builder picks up a purple block at X:-2 Y:2 Z:0]
+1099,103,[Builder puts down a purple block at X:3 Y:3 Z:0]
+1099,104,[Builder puts down a purple block at X:3 Y:4 Z:0]
+1099,105,[Builder puts down a purple block at X:1 Y:5 Z:0]
+1099,106,[Builder puts down a purple block at X:2 Y:5 Z:0]
+1099,107,[Builder puts down a purple block at X:3 Y:5 Z:0]
+1099,108,[Builder puts down a purple block at X:2 Y:6 Z:0]
+1099,109,<Builder> is this it?
+1099,110,"<Architect> good job builder, i am sorry for the incorrect instructions"
+1099,111,<Architect> that is correct
+1099,112,<Builder> you did a good job!
+1099,113,<Architect> thank you for being my builder
+1100,,3-30-rectangle-chain
+1100,1,<Builder> Mission has started.
+1100,2,<Builder> hello
+1100,3,"<Architect> hello builder, we have yet another complicated structure. "
+1100,4,<Architect> i will need a moment to look it over
+1100,5,<Builder> take your time. 
+1100,6,<Builder> just give me instructions when you are ready.
+1100,7,"<Architect> ok, we will start by using blue blocks. "
+1100,8,<Architect> please start 1 square from the left side. 
+1100,9,"<Architect> we need to make a U shaped structure, but as if it were turned 90 degrees to the right and laying on its side"
+1100,10,[Builder puts down a blue block at X:4 Y:1 Z:-1]
+1100,11,<Builder> start here?
+1100,12,[Builder puts down a blue block at X:3 Y:1 Z:-1]
+1100,13,[Builder puts down a blue block at X:4 Y:2 Z:-1]
+1100,14,[Builder puts down a blue block at X:4 Y:3 Z:-1]
+1100,15,<Architect> yes
+1100,16,[Builder puts down a blue block at X:3 Y:3 Z:-1]
+1100,17,<Builder> a C?
+1100,18,"<Architect> i made a mistake, this will actually be a rectangle. "
+1100,19,<Architect> you have started correctly. 
+1100,20,<Architect> we need 2 more blue blocks going horizontally and finish it off by filling in the rectangle
+1100,21,"<Architect> 2 more on the upper and lower part, i mean"
+1100,22,[Builder puts down a blue block at X:2 Y:1 Z:-1]
+1100,23,[Builder puts down a blue block at X:2 Y:3 Z:-1]
+1100,24,<Builder> so the orientation is correct?
+1100,25,"<Architect> 1 more, so that it is 4 across please. "
+1100,26,<Architect> yes this orientation is correct i believe
+1100,27,[Builder puts down a blue block at X:1 Y:1 Z:-1]
+1100,28,[Builder puts down a blue block at X:1 Y:3 Z:-1]
+1100,29,<Builder> like this?
+1100,30,"<Architect> yes, now we just need to fill in that last piece to complete the blue rectangle"
+1100,31,[Builder puts down a blue block at X:0 Y:1 Z:-1]
+1100,32,[Builder puts down a blue block at X:0 Y:2 Z:-1]
+1100,33,[Builder puts down a blue block at X:0 Y:3 Z:-1]
+1100,34,<Architect> actually that is a little too far. 
+1100,35,<Architect> we just need that middle block shifted to the left and to remove the other 2 ones you just placed
+1100,36,<Architect> it should be a 3x4 open rectangle
+1100,37,[Builder puts down a blue block at X:1 Y:2 Z:-1]
+1100,38,[Builder picks up a blue block at X:1 Y:2 Z:-1]
+1100,39,[Builder picks up a blue block at X:0 Y:2 Z:-1]
+1100,40,<Builder> what do you mean shifted to the left?
+1100,41,<Architect> there should be 2 open spaces in this rectangle
+1100,42,<Architect> it should end on the 4th block
+1100,43,[Builder puts down a blue block at X:1 Y:2 Z:-1]
+1100,44,<Architect> yes like that
+1100,45,<Builder> go it
+1100,46,<Builder> so re move the other 2 blue blocks at the end?
+1100,47,<Architect> yes please
+1100,48,[Builder picks up a blue block at X:0 Y:1 Z:-1]
+1100,49,[Builder picks up a blue block at X:0 Y:3 Z:-1]
+1100,50,<Architect> i will refer to this shape as r-windows from here on out. 
+1100,51,<Architect> we need to make 3 more of them in different colors. 
+1100,52,<Architect> the tricky part is they will all be interlinked. 
+1100,53,<Architect> lets move on to the green one
+1100,54,<Builder> okay
+1100,55,<Architect> please place the first green block in the right open space of the blue r-window
+1100,56,<Builder> they are connected and all look the same right?
+1100,57,[Builder puts down a green block at X:2 Y:2 Z:-1]
+1100,58,"<Architect> some of them are oriented differently, flat instead of standing up"
+1100,59,<Builder> okay. 
+1100,60,<Builder> here?
+1100,61,"<Architect> this one will be flat, but shifted up as if it were the second layer. "
+1100,62,<Architect> yes that placement is corrent
+1100,63,<Builder> let me try
+1100,64,[Builder puts down a green block at X:2 Y:2 Z:-2]
+1100,65,[Builder puts down a green block at X:2 Y:2 Z:0]
+1100,66,[Builder puts down a green block at X:2 Y:3 Z:0]
+1100,67,[Builder puts down a green block at X:2 Y:4 Z:0]
+1100,68,[Builder puts down a green block at X:2 Y:5 Z:0]
+1100,69,[Builder puts down a green block at X:2 Y:5 Z:-1]
+1100,70,[Builder puts down a green block at X:2 Y:5 Z:-2]
+1100,71,[Builder puts down a green block at X:2 Y:3 Z:-2]
+1100,72,[Builder puts down a green block at X:2 Y:4 Z:-2]
+1100,73,<Builder> like this?
+1100,74,<Builder> is the orientation correct?
+1100,75,<Architect> a good effort builder. 
+1100,76,<Architect> we need this green one to be flat though. 
+1100,77,<Architect> if you can shift it 90 degrees to the right then it will be perfect
+1100,78,<Builder> so flat?
+1100,79,[Builder picks up a green block at X:2 Y:3 Z:-2]
+1100,80,[Builder picks up a green block at X:2 Y:4 Z:-2]
+1100,81,[Builder picks up a green block at X:2 Y:5 Z:-2]
+1100,82,[Builder picks up a green block at X:2 Y:5 Z:-1]
+1100,83,[Builder picks up a green block at X:2 Y:5 Z:0]
+1100,84,[Builder picks up a green block at X:2 Y:4 Z:0]
+1100,85,[Builder picks up a green block at X:2 Y:3 Z:0]
+1100,86,[Builder puts down a green block at X:1 Y:2 Z:0]
+1100,87,[Builder puts down a green block at X:0 Y:2 Z:0]
+1100,88,<Architect> yes like that
+1100,89,[Builder puts down a green block at X:1 Y:2 Z:-2]
+1100,90,[Builder puts down a green block at X:0 Y:2 Z:-2]
+1100,91,[Builder puts down a green block at X:-1 Y:2 Z:-2]
+1100,92,[Builder puts down a green block at X:-1 Y:2 Z:0]
+1100,93,[Builder puts down a green block at X:-1 Y:2 Z:-1]
+1100,94,<Architect> perfect. 
+1100,95,<Architect> good job builder!
+1100,96,<Architect> one moment while i examine the strcuture
+1100,97,<Builder> okay
+1100,98,<Architect> next we need a purple r-window. 
+1100,99,<Architect> it should be interlinked with the green and extending away from you. 
+1100,100,"<Architect> this one is not flat, much like the blue one"
+1100,101,[Builder picks up a green block at X:0 Y:2 Z:-2]
+1100,102,[Builder puts down a green block at X:0 Y:2 Z:-2]
+1100,103,[Builder puts down a purple block at X:0 Y:2 Z:-1]
+1100,104,[Builder puts down a purple block at X:0 Y:3 Z:-1]
+1100,105,[Builder puts down a purple block at X:0 Y:3 Z:0]
+1100,106,<Architect> yes like that
+1100,107,<Builder> extending like this?
+1100,108,[Builder puts down a purple block at X:0 Y:3 Z:1]
+1100,109,[Builder puts down a purple block at X:0 Y:3 Z:2]
+1100,110,[Builder puts down a purple block at X:0 Y:1 Z:2]
+1100,111,[Builder puts down a purple block at X:0 Y:2 Z:2]
+1100,112,[Builder puts down a purple block at X:0 Y:1 Z:1]
+1100,113,[Builder puts down a purple block at X:0 Y:1 Z:0]
+1100,114,[Builder puts down a purple block at X:0 Y:1 Z:-1]
+1100,115,[Builder picks up a purple block at X:0 Y:3 Z:-1]
+1100,116,[Builder puts down a purple block at X:0 Y:3 Z:-1]
+1100,117,<Architect> very good builder
+1100,118,<Builder> is that it?
+1100,119,<Builder> it might have been easier to describe the two windows first
+1100,120,<Builder> that are perpendicular
+1100,121,<Builder> then the interlocking one..
+1100,122,"<Architect> a good point builder, i will try to do better in the future. "
+1100,123,<Architect> our last r-window is red and oriented like the green one (flat).
+1100,124,<Architect> it should be interlinked with the purple r-window. 
+1100,125,<Architect> it should extend to the left from where you are now
+1100,126,[Builder puts down a red block at X:0 Y:2 Z:1]
+1100,127,[Builder puts down a red block at X:1 Y:2 Z:1]
+1100,128,[Builder puts down a red block at X:-1 Y:2 Z:1]
+1100,129,[Builder puts down a red block at X:1 Y:2 Z:2]
+1100,130,[Builder puts down a red block at X:1 Y:2 Z:3]
+1100,131,[Builder puts down a red block at X:0 Y:2 Z:3]
+1100,132,[Builder puts down a red block at X:-2 Y:2 Z:1]
+1100,133,[Builder puts down a red block at X:-2 Y:2 Z:2]
+1100,134,[Builder puts down a red block at X:-2 Y:2 Z:3]
+1100,135,[Builder puts down a red block at X:-1 Y:2 Z:3]
+1100,136,<Builder> like this?
+1100,137,"<Architect> good job builder, that looks correct. "
+1100,138,<Architect> please allow a moment to inspect the full structure
+1100,139,<Builder> okay
+1100,140,<Architect> i do believe we have successfully completed our mission. 
+1100,141,<Architect> good job builder!
+1100,142,<Builder> good job
+1100,143,[Builder picks up a red block at X:0 Y:2 Z:3]
+1100,144,[Builder puts down a red block at X:0 Y:2 Z:3]
+1091,,3-30-black-hole
+1091,1,<Builder> Mission has started.
+1091,2,<Builder> hello. What are we building this time?
+1091,3,<Architect> hello builder. 
+1091,4,<Architect> we will start with red blocks.
+1091,5,<Architect> please build a 4x4 open window so that a 2x2 space is open in the middle
+1091,6,<Builder> flat on the ground?
+1091,7,<Builder> anywhere?
+1091,8,"<Architect> yes flat on the ground, preferably centered in the middle"
+1091,9,[Builder puts down a red block at X:1 Y:1 Z:-1]
+1091,10,[Builder puts down a red block at X:0 Y:1 Z:-1]
+1091,11,[Builder puts down a red block at X:-1 Y:1 Z:-1]
+1091,12,[Builder puts down a red block at X:-2 Y:1 Z:-1]
+1091,13,[Builder puts down a red block at X:-2 Y:1 Z:0]
+1091,14,[Builder puts down a red block at X:-2 Y:1 Z:1]
+1091,15,[Builder puts down a red block at X:-2 Y:1 Z:2]
+1091,16,[Builder puts down a red block at X:-1 Y:1 Z:2]
+1091,17,[Builder puts down a red block at X:1 Y:1 Z:2]
+1091,18,[Builder puts down a red block at X:0 Y:1 Z:2]
+1091,19,[Builder puts down a red block at X:1 Y:1 Z:1]
+1091,20,[Builder puts down a red block at X:1 Y:1 Z:0]
+1091,21,<Builder> go it
+1091,22,<Architect> good job builder.
+1091,23,<Architect> i need a moment to inspect the structure.
+1091,24,"<Architect> we will be removing this first layer in the future, but we need to build on top of it first."
+1091,25,"<Architect> please place 2 red blocks on top of each side of the square, leaving the corners empty"
+1091,26,[Builder puts down a red block at X:0 Y:2 Z:-1]
+1091,27,[Builder puts down a red block at X:-1 Y:2 Z:-1]
+1091,28,[Builder puts down a red block at X:-2 Y:2 Z:0]
+1091,29,[Builder puts down a red block at X:-2 Y:2 Z:1]
+1091,30,[Builder puts down a red block at X:-1 Y:2 Z:2]
+1091,31,[Builder puts down a red block at X:0 Y:2 Z:2]
+1091,32,[Builder puts down a red block at X:1 Y:2 Z:1]
+1091,33,[Builder puts down a red block at X:1 Y:2 Z:0]
+1091,34,<Architect> perfect.
+1091,35,<Builder> okay
+1091,36,"<Architect> there is a 3rd layer that is floating, so please made a 6x6 square that extends upwards of 2 blocks to support the 3rd layer"
+1091,37,<Architect> these will use purple blocks
+1091,38,<Builder> can you give me an instruction for a single purple block first?
+1091,39,"<Architect> how about this, please make a 6x6 purple ring around the first layer of the red square"
+1091,40,<Builder> okay
+1091,41,[Builder puts down a purple block at X:1 Y:1 Z:-2]
+1091,42,[Builder puts down a purple block at X:0 Y:1 Z:-2]
+1091,43,[Builder puts down a purple block at X:-1 Y:1 Z:-2]
+1091,44,[Builder puts down a purple block at X:-2 Y:1 Z:-2]
+1091,45,[Builder puts down a purple block at X:-3 Y:1 Z:-2]
+1091,46,[Builder puts down a purple block at X:2 Y:1 Z:-2]
+1091,47,[Builder puts down a purple block at X:2 Y:1 Z:-1]
+1091,48,[Builder puts down a purple block at X:2 Y:1 Z:0]
+1091,49,[Builder puts down a purple block at X:2 Y:1 Z:1]
+1091,50,[Builder puts down a purple block at X:2 Y:1 Z:2]
+1091,51,[Builder puts down a purple block at X:2 Y:1 Z:3]
+1091,52,[Builder puts down a purple block at X:1 Y:1 Z:3]
+1091,53,[Builder puts down a purple block at X:0 Y:1 Z:3]
+1091,54,[Builder puts down a purple block at X:-1 Y:1 Z:3]
+1091,55,[Builder puts down a purple block at X:-3 Y:1 Z:3]
+1091,56,[Builder puts down a purple block at X:-2 Y:1 Z:3]
+1091,57,[Builder puts down a purple block at X:-3 Y:1 Z:2]
+1091,58,[Builder puts down a purple block at X:-3 Y:1 Z:1]
+1091,59,[Builder puts down a purple block at X:-3 Y:1 Z:0]
+1091,60,[Builder puts down a purple block at X:-3 Y:1 Z:-1]
+1091,61,"<Architect> yes, awesome."
+1091,62,<Architect> now place add another layer to that ring
+1091,63,<Architect> please*
+1091,64,<Builder> purple?
+1091,65,<Builder> i am out of blocks
+1091,66,"<Architect> oh, do you have any colors that are not purple or red?"
+1091,67,<Builder> yes
+1091,68,"<Architect> ok, my mistake. "
+1091,69,<Architect> i am a failure of an architect
+1091,70,<Architect> we will use other colors to support the final structure
+1091,71,<Builder> is the purple supposed to be on the third level?
+1091,72,<Builder> i think i could make it float..
+1091,73,<Architect> let's use blue to replace the purple ring. 
+1091,74,<Architect> yes purple is supposed to be the final structure
+1091,75,<Builder> okay
+1091,76,<Builder> let me try it
+1091,77,[Builder picks up a purple block at X:-1 Y:1 Z:-2]
+1091,78,[Builder picks up a purple block at X:-2 Y:1 Z:-2]
+1091,79,[Builder picks up a purple block at X:-3 Y:1 Z:-2]
+1091,80,[Builder picks up a purple block at X:-3 Y:1 Z:-1]
+1091,81,[Builder picks up a purple block at X:-3 Y:1 Z:0]
+1091,82,[Builder picks up a purple block at X:-3 Y:1 Z:1]
+1091,83,[Builder picks up a purple block at X:-3 Y:1 Z:2]
+1091,84,[Builder picks up a purple block at X:-2 Y:1 Z:3]
+1091,85,[Builder picks up a purple block at X:-3 Y:1 Z:3]
+1091,86,[Builder picks up a purple block at X:-1 Y:1 Z:3]
+1091,87,[Builder picks up a purple block at X:0 Y:1 Z:3]
+1091,88,[Builder picks up a purple block at X:1 Y:1 Z:3]
+1091,89,[Builder picks up a purple block at X:2 Y:1 Z:3]
+1091,90,[Builder picks up a purple block at X:2 Y:1 Z:2]
+1091,91,[Builder picks up a purple block at X:2 Y:1 Z:1]
+1091,92,[Builder picks up a purple block at X:2 Y:1 Z:0]
+1091,93,[Builder picks up a purple block at X:2 Y:1 Z:-1]
+1091,94,[Builder picks up a purple block at X:2 Y:1 Z:-2]
+1091,95,[Builder picks up a purple block at X:1 Y:1 Z:-2]
+1091,96,[Builder picks up a purple block at X:0 Y:1 Z:-2]
+1091,97,[Builder puts down a purple block at X:0 Y:3 Z:-1]
+1091,98,[Builder puts down a purple block at X:0 Y:3 Z:-2]
+1091,99,[Builder picks up a purple block at X:0 Y:3 Z:-1]
+1091,100,[Builder puts down a purple block at X:-1 Y:3 Z:-2]
+1091,101,[Builder puts down a purple block at X:-2 Y:3 Z:-2]
+1091,102,[Builder puts down a purple block at X:-3 Y:3 Z:-2]
+1091,103,[Builder puts down a purple block at X:-3 Y:3 Z:-1]
+1091,104,[Builder puts down a purple block at X:-3 Y:3 Z:0]
+1091,105,[Builder puts down a purple block at X:-3 Y:3 Z:1]
+1091,106,[Builder puts down a purple block at X:-3 Y:3 Z:2]
+1091,107,<Architect> oh that is magnificent builder
+1091,108,[Builder puts down a purple block at X:-3 Y:3 Z:3]
+1091,109,[Builder puts down a purple block at X:-2 Y:3 Z:3]
+1091,110,[Builder puts down a purple block at X:-1 Y:3 Z:3]
+1091,111,[Builder puts down a purple block at X:0 Y:3 Z:3]
+1091,112,[Builder puts down a purple block at X:1 Y:3 Z:3]
+1091,113,[Builder puts down a purple block at X:2 Y:3 Z:3]
+1091,114,[Builder puts down a purple block at X:2 Y:3 Z:2]
+1091,115,[Builder puts down a purple block at X:2 Y:3 Z:1]
+1091,116,[Builder puts down a purple block at X:2 Y:3 Z:0]
+1091,117,[Builder puts down a purple block at X:2 Y:3 Z:-1]
+1091,118,"<Architect> i am not familiar with minecraft, so my understanding is not as great as your own"
+1091,119,[Builder puts down a purple block at X:2 Y:3 Z:-2]
+1091,120,[Builder puts down a purple block at X:1 Y:3 Z:-2]
+1091,121,<Builder> like this?
+1091,122,"<Architect> yes, we will need to cut some pieces form that and add a few but that is great."
+1091,123,<Architect> can you add purple blocks at each inner corner of that structure?
+1091,124,"<Architect> if not, please remove the corner pieces of the purple ring"
+1091,125,<Builder> i only have 20 blocks of each color. 
+1091,126,<Builder> i used them up. 
+1091,127,<Builder> okay i will remove some
+1091,128,[Builder picks up a purple block at X:2 Y:3 Z:-2]
+1091,129,[Builder picks up a purple block at X:-3 Y:3 Z:-2]
+1091,130,[Builder picks up a purple block at X:-3 Y:3 Z:3]
+1091,131,[Builder picks up a purple block at X:2 Y:3 Z:3]
+1091,132,[Builder puts down a purple block at X:1 Y:3 Z:2]
+1091,133,[Builder puts down a purple block at X:-2 Y:3 Z:2]
+1091,134,[Builder puts down a purple block at X:-2 Y:3 Z:-1]
+1091,135,[Builder puts down a purple block at X:1 Y:3 Z:-1]
+1091,136,<Builder> like this?
+1091,137,"<Architect> yes, all that's left now is removing"
+1091,138,<Architect> we need to remove the pieces that were directly next to the old corners you just removed
+1091,139,<Builder> the purple ones?
+1091,140,<Architect> while leaving the new inner corners intact
+1091,141,<Architect> yes
+1091,142,[Builder picks up a purple block at X:1 Y:3 Z:-2]
+1091,143,[Builder picks up a purple block at X:2 Y:3 Z:-1]
+1091,144,[Builder picks up a purple block at X:-2 Y:3 Z:-2]
+1091,145,[Builder picks up a purple block at X:-3 Y:3 Z:-1]
+1091,146,[Builder picks up a purple block at X:-3 Y:3 Z:2]
+1091,147,[Builder picks up a purple block at X:-2 Y:3 Z:3]
+1091,148,[Builder picks up a purple block at X:1 Y:3 Z:3]
+1091,149,[Builder picks up a purple block at X:2 Y:3 Z:2]
+1091,150,"<Architect> builder, you are awesome. "
+1091,151,<Architect> now all we need to do is remove the first red layer and the structure should be complete. 
+1091,152,<Architect> please standby for me to inspect at the end
+1091,153,<Builder> okay
+1091,154,<Builder> all of the first red layer?
+1091,155,[Builder picks up a red block at X:1 Y:1 Z:-1]
+1091,156,[Builder picks up a red block at X:0 Y:1 Z:-1]
+1091,157,[Builder picks up a red block at X:-1 Y:1 Z:-1]
+1091,158,[Builder picks up a red block at X:-2 Y:1 Z:-1]
+1091,159,[Builder picks up a red block at X:-2 Y:1 Z:0]
+1091,160,[Builder picks up a red block at X:-2 Y:1 Z:1]
+1091,161,[Builder picks up a red block at X:-2 Y:1 Z:2]
+1091,162,<Architect> yes all of it
+1091,163,[Builder picks up a red block at X:-1 Y:1 Z:2]
+1091,164,[Builder picks up a red block at X:0 Y:1 Z:2]
+1091,165,[Builder picks up a red block at X:1 Y:1 Z:2]
+1091,166,[Builder picks up a red block at X:1 Y:1 Z:1]
+1091,167,[Builder picks up a red block at X:1 Y:1 Z:0]
+1091,168,<Builder> is this it?
+1091,169,"<Architect> yes, we've done it builder!"
+1091,170,<Builder> good job!
+,,?
+,,<Builder> Mission has started.
+,,<Builder> hello. what are we building this time?
+,,"<Architect> hello builder, i will tell you this. it appears we are creating a belltower. but first i will start with step by step instructions. we will start with green blocks"
+,,"<Architect> please start with 8 green blocks extending straight up. this will need to be placed as far right as you can, preferably centered along the other axis"
+,,[Builder puts down a green block at X:-5 Y:1 Z:0]
+,,<Builder> here?
+,,<Architect> yes
+,,<Builder> ok
+,,[Builder puts down a green block at X:-5 Y:2 Z:0]
+,,[Builder puts down a green block at X:-5 Y:3 Z:0]
+,,[Builder puts down a green block at X:-5 Y:4 Z:0]
+,,[Builder puts down a green block at X:-5 Y:5 Z:0]
+,,[Builder puts down a green block at X:-5 Y:6 Z:0]
+,,[Builder puts down a green block at X:-5 Y:7 Z:0]
+,,[Builder puts down a green block at X:-5 Y:8 Z:0]
+,,<Builder> is this good?
+,,"<Architect> yes, one moment"
+,,"<Architect> on the 8th block to the left of the green block, please create the same structure with red blocks"
+,,<Builder> on top the 8th block?
+,,"<Architect> sorry, my mistake"
+,,[Builder puts down a red block at X:-5 Y:9 Z:0]
+,,<Architect> it should start on the ground
+,,"<Architect> i only meant 8 blocks away from the first green block, to the left"
+,,[Builder puts down a red block at X:3 Y:1 Z:0]
+,,<Builder> here?
+,,<Architect> yes
+,,[Builder puts down a red block at X:3 Y:2 Z:0]
+,,[Builder puts down a red block at X:3 Y:3 Z:0]
+,,[Builder puts down a red block at X:3 Y:4 Z:0]
+,,[Builder puts down a red block at X:3 Y:5 Z:0]
+,,[Builder puts down a red block at X:3 Y:6 Z:0]
+,,[Builder puts down a red block at X:3 Y:7 Z:0]
+,,[Builder puts down a red block at X:3 Y:8 Z:0]
+,,<Builder> like this?
+,,"<Architect> good job builder. if you can do this without a supporting structure then please do. we need yet another row of purple blocks that is 9 long so that it lays across the green and red, on top of them"
+,,<Builder> starting and ending from the red and green?
+,,[Builder puts down a purple block at X:-5 Y:9 Z:0]
+,,<Architect> yes
+,,[Builder puts down a purple block at X:-4 Y:9 Z:0]
+,,[Builder puts down a purple block at X:-3 Y:9 Z:0]
+,,[Builder puts down a purple block at X:-2 Y:9 Z:0]
+,,[Builder puts down a purple block at X:-1 Y:9 Z:0]
+,,[Builder puts down a purple block at X:0 Y:9 Z:0]
+,,[Builder puts down a purple block at X:1 Y:9 Z:0]
+,,[Builder puts down a purple block at X:2 Y:9 Z:0]
+,,[Builder puts down a purple block at X:3 Y:9 Z:0]
+,,<Architect> excellent builder
+,,"<Architect> now we must create the bell. please start by extending 4 orange blocks down from the middle purple block, as if it were hanging"
+,,[Builder puts down a orange block at X:-1 Y:8 Z:0]
+,,[Builder puts down a orange block at X:-1 Y:7 Z:0]
+,,[Builder puts down a orange block at X:-1 Y:6 Z:0]
+,,[Builder puts down a orange block at X:-1 Y:5 Z:0]
+,,<Builder> like this?
+,,<Architect> yes. now we need 3 blocks on both sides of the bottom three blocks so that is looks like a 3x3 square hanging off of the purple row
+,,<Builder> okay
+,,<Builder> orange?
+,,[Builder puts down a orange block at X:-2 Y:7 Z:0]
+,,[Builder puts down a orange block at X:-2 Y:6 Z:0]
+,,[Builder puts down a orange block at X:-2 Y:5 Z:0]
+,,"<Architect> yes, orange. sorry"
+,,[Builder puts down a orange block at X:0 Y:7 Z:0]
+,,[Builder puts down a orange block at X:0 Y:6 Z:0]
+,,[Builder puts down a orange block at X:0 Y:5 Z:0]
+,,<Builder> is this good?
+,,<Architect> great. now please place 1 orange block on the bottom corners of the 3x3 square so that it is shaped like a bell
+,,<Architect> yes that is good
+,,[Builder puts down a orange block at X:0 Y:4 Z:0]
+,,[Builder puts down a orange block at X:-2 Y:4 Z:0]
+,,<Builder> here?
+,,"<Architect> not quite. they should be on the left and right sides, not the bottom side. my mistake"
+,,[Builder picks up a orange block at X:-2 Y:4 Z:0]
+,,[Builder picks up a orange block at X:0 Y:4 Z:0]
+,,[Builder puts down a orange block at X:-3 Y:5 Z:0]
+,,[Builder puts down a orange block at X:1 Y:5 Z:0]
+,,<Builder> oh i see. my mistake
+,,<Architect> good job builder. we have 1 final piece
+,,"<Architect> please place 1 yellow block on the bottom of the bell, in the middle"
+,,[Builder puts down a yellow block at X:-1 Y:4 Z:0]
+,,"<Architect> builder, we have done it"
+,,<Builder> good job!
+,,<Architect> you too builder! you are a master craftsman/woman
+1106,,3-30-orange-flat-original-L
+1106,1,<Builder> Mission has started.
+1106,2,<Builder> hello architect
+1106,3,<Architect> Hi
+1106,4,<Builder> what would you like me to build today?
+1106,5,<Architect> Build a orange L
+1106,6,[Builder puts down a orange block at X:-1 Y:1 Z:0]
+1106,7,[Builder puts down a orange block at X:-1 Y:1 Z:1]
+1106,8,[Builder puts down a orange block at X:-1 Y:2 Z:0]
+1106,9,<Builder> like this?
+1106,10,<Architect> turn it on its side
+1106,11,[Builder picks up a orange block at X:-1 Y:2 Z:0]
+1106,12,[Builder puts down a orange block at X:0 Y:1 Z:0]
+1106,13,<Architect> perfect
+1106,14,<Builder> thank you architect
+1110,,3-30-smiley
+1110,1,<Builder> Mission has started.
+1110,2,<Builder> hello again architect
+1110,3,<Architect> you are going to be building a smiley face
+1110,4,<Builder> ok
+1110,5,<Architect> start with a yellow block
+1110,6,<Builder> does it matter where?
+1110,7,<Architect> no it does not
+1110,8,[Builder puts down a yellow block at X:1 Y:1 Z:1]
+1110,9,<Architect> now set a purple block to the right of the yellow one
+1110,10,[Builder puts down a purple block at X:0 Y:1 Z:1]
+1110,11,<Builder> like this?
+1110,12,<Architect> yes
+1110,13,<Architect> now take a red block
+1110,14,<Architect> place it in the square diagonally to the right of the purple block
+1110,15,[Builder puts down a red block at X:-1 Y:1 Z:2]
+1110,16,<Architect> nice
+1110,17,<Builder> thank you
+1110,18,<Architect> now do the same thing on the other side but with an orange block
+1110,19,<Builder> other side of the purple or yellow?
+1110,20,<Architect> yellow
+1110,21,[Builder puts down a orange block at X:2 Y:1 Z:2]
+1110,22,<Architect> now you need to make the eyes with two blue blocks
+1110,23,[Builder puts down a blue block at X:1 Y:1 Z:4]
+1110,24,<Architect> they are directly above the orange and red blocks with two spaces in between them
+1110,25,[Builder picks up a blue block at X:1 Y:1 Z:4]
+1110,26,[Builder puts down a blue block at X:2 Y:1 Z:4]
+1110,27,[Builder puts down a blue block at X:-1 Y:1 Z:4]
+1110,28,<Builder> like this?
+1110,29,<Architect> move them up one space
+1110,30,[Builder picks up a blue block at X:2 Y:1 Z:4]
+1110,31,[Builder puts down a blue block at X:2 Y:1 Z:5]
+1110,32,[Builder picks up a blue block at X:-1 Y:1 Z:4]
+1110,33,[Builder puts down a blue block at X:-1 Y:1 Z:5]
+1110,34,<Builder> and now?
+1110,35,<Architect> looks done
+1110,36,<Builder> ok
+1112,,3-30-diagonal zigzag
+1112,1,<Builder> Mission has started.
+1112,2,"<Builder> hello architect, my only friend"
+1112,3,<Architect> what's shakin
+1112,4,<Builder> i am ready to build
+1112,5,<Architect> ok place two blue blocks on the ground
+1112,6,[Builder puts down a blue block at X:0 Y:1 Z:0]
+1112,7,[Builder puts down a blue block at X:-1 Y:1 Z:0]
+1112,8,"<Architect> cool, now put two more blue blocks on top of those"
+1112,9,[Builder puts down a blue block at X:0 Y:2 Z:0]
+1112,10,[Builder puts down a blue block at X:-1 Y:2 Z:0]
+1112,11,<Architect> Now attach two more blue blocks to the top two parallel to the ground
+1112,12,[Builder puts down a blue block at X:-2 Y:2 Z:0]
+1112,13,[Builder puts down a blue block at X:1 Y:2 Z:0]
+1112,14,<Builder> like so?
+1112,15,<Architect> Move them to the longer side
+1112,16,[Builder picks up a blue block at X:-2 Y:2 Z:0]
+1112,17,[Builder picks up a blue block at X:1 Y:2 Z:0]
+1112,18,[Builder puts down a blue block at X:0 Y:2 Z:1]
+1112,19,[Builder puts down a blue block at X:-1 Y:2 Z:1]
+1112,20,<Architect> yeah great
+1112,21,<Builder> like that?
+1112,22,<Builder> ok
+1112,23,"<Architect> On top of the blocks you just placed, put down two red blocks"
+1112,24,[Builder puts down a red block at X:-1 Y:2 Z:2]
+1112,25,[Builder picks up a red block at X:-1 Y:2 Z:2]
+1112,26,[Builder puts down a red block at X:-1 Y:3 Z:1]
+1112,27,[Builder puts down a red block at X:0 Y:3 Z:1]
+1112,28,<Architect> great
+1112,29,<Architect> Now place two more red blocks on the same horizontal plane that jut out to the left
+1112,30,[Builder puts down a red block at X:0 Y:3 Z:2]
+1112,31,[Builder puts down a red block at X:-1 Y:3 Z:2]
+1112,32,<Builder> like that?
+1112,33,<Architect> perfect
+1112,34,<Architect> On top of the ones you just placed add two purple blocks
+1112,35,[Builder puts down a purple block at X:-1 Y:4 Z:2]
+1112,36,[Builder puts down a purple block at X:0 Y:4 Z:2]
+1112,37,<Architect> then do the same thing you did for the red blocks
+1112,38,[Builder puts down a purple block at X:-1 Y:4 Z:3]
+1112,39,[Builder puts down a purple block at X:0 Y:4 Z:3]
+1112,40,<Architect> and put two purple blocks on top of those
+1112,41,[Builder puts down a purple block at X:-1 Y:5 Z:3]
+1112,42,[Builder puts down a purple block at X:0 Y:5 Z:3]
+1112,43,<Builder> like that?
+1112,44,<Architect> yep nice
+1105,,3-30-double-stairs
+1105,1,<Builder> Mission has started.
+1105,2,<Architect> hello
+1105,3,<Builder> hello architect my only friend
+1105,4,<Builder> what are we building today?
+1105,5,<Architect> get ready to build a bridge
+1105,6,<Builder> ok i am ready
+1105,7,<Architect> place three yellow blocks along the long side of the building space
+1105,8,<Builder> does it matter which side?
+1105,9,<Architect> nope
+1105,10,[Builder puts down a yellow block at X:5 Y:1 Z:-1]
+1105,11,[Builder puts down a yellow block at X:5 Y:1 Z:0]
+1105,12,[Builder puts down a yellow block at X:5 Y:1 Z:1]
+1105,13,<Architect> then put another row of three next to that
+1105,14,[Builder puts down a yellow block at X:4 Y:1 Z:-1]
+1105,15,[Builder puts down a yellow block at X:4 Y:1 Z:0]
+1105,16,[Builder puts down a yellow block at X:4 Y:1 Z:1]
+1105,17,<Architect> ok now you are going to add a third row which you will remove in a bit
+1105,18,"<Builder> ok, which colors are not used so i can use them as placeholders?"
+1105,19,<Architect> red
+1105,20,[Builder puts down a red block at X:3 Y:1 Z:-1]
+1105,21,[Builder puts down a red block at X:3 Y:1 Z:0]
+1105,22,[Builder puts down a red block at X:3 Y:1 Z:1]
+1105,23,<Builder> is this good?
+1105,24,<Architect> yes
+1105,25,<Architect> Now on top of the red place three orange blocks
+1105,26,[Builder puts down a orange block at X:3 Y:2 Z:-1]
+1105,27,[Builder puts down a orange block at X:3 Y:2 Z:0]
+1105,28,[Builder puts down a orange block at X:3 Y:2 Z:1]
+1105,29,<Architect> then put another row of orange
+1105,30,<Builder> next to or above?
+1105,31,<Architect> next
+1105,32,[Builder puts down a orange block at X:2 Y:2 Z:-1]
+1105,33,[Builder puts down a orange block at X:2 Y:2 Z:0]
+1105,34,[Builder puts down a orange block at X:2 Y:2 Z:1]
+1105,35,"<Architect> cool, now you can remove the red ones"
+1105,36,[Builder picks up a red block at X:3 Y:1 Z:-1]
+1105,37,[Builder picks up a red block at X:3 Y:1 Z:0]
+1105,38,[Builder picks up a red block at X:3 Y:1 Z:1]
+1105,39,"<Architect> ok, now go to the second row from the right"
+1105,40,<Architect> place three green blocks
+1105,41,[Builder puts down a green block at X:-4 Y:1 Z:-1]
+1105,42,[Builder puts down a green block at X:-4 Y:1 Z:0]
+1105,43,[Builder puts down a green block at X:-4 Y:1 Z:1]
+1105,44,<Architect> great
+1105,45,<Architect> now add three more
+1105,46,[Builder puts down a green block at X:-3 Y:1 Z:1]
+1105,47,[Builder puts down a green block at X:-3 Y:1 Z:0]
+1105,48,[Builder puts down a green block at X:-3 Y:1 Z:-1]
+1105,49,<Architect> on top of those add three purple
+1105,50,[Builder puts down a purple block at X:-3 Y:2 Z:-1]
+1105,51,[Builder puts down a purple block at X:-3 Y:2 Z:0]
+1105,52,[Builder puts down a purple block at X:-3 Y:2 Z:1]
+1105,53,<Architect> then add three more to the left
+1105,54,[Builder puts down a purple block at X:-2 Y:2 Z:-1]
+1105,55,[Builder puts down a purple block at X:-2 Y:2 Z:0]
+1105,56,[Builder puts down a purple block at X:-2 Y:2 Z:1]
+1105,57,<Architect> make another vertical two by three green rectangle offset by one like you did with the purple
+1105,58,[Builder puts down a green block at X:-2 Y:3 Z:-1]
+1105,59,[Builder puts down a green block at X:-2 Y:3 Z:0]
+1105,60,[Builder puts down a green block at X:-2 Y:3 Z:1]
+1105,61,<Architect> basically just do that again but with green
+1105,62,[Builder puts down a green block at X:-1 Y:3 Z:1]
+1105,63,[Builder puts down a green block at X:-1 Y:3 Z:0]
+1105,64,[Builder puts down a green block at X:-1 Y:3 Z:-1]
+1105,65,<Architect> great
+1105,66,<Builder> like that?
+1105,67,<Builder> cool
+1105,68,<Architect> now add a three by two yellow rectangle to connect the bridge
+1105,69,[Builder puts down a yellow block at X:0 Y:3 Z:-1]
+1105,70,[Builder puts down a yellow block at X:1 Y:3 Z:-1]
+1105,71,[Builder puts down a yellow block at X:0 Y:3 Z:0]
+1105,72,[Builder puts down a yellow block at X:1 Y:3 Z:0]
+1105,73,[Builder puts down a yellow block at X:1 Y:3 Z:1]
+1105,74,[Builder puts down a yellow block at X:0 Y:3 Z:1]
+1105,75,<Architect> nice one
+1105,76,<Builder> thank you architect
+1104,,3-30-diagonal-Ls
+1104,1,<Builder> Mission has started.
+1104,2,<Builder> hello architect
+1104,3,"<Architect> hello, are you ready to build a rainbow"
+1104,4,"<Builder> i am ready architect, please show me the way"
+1104,5,<Architect> Alrighty
+1104,6,<Architect> In the upper left corner place a purple block
+1104,7,[Builder puts down a purple block at X:5 Y:1 Z:5]
+1104,8,<Builder> there?
+1104,9,<Architect> sure thing
+1104,10,<Architect> now place a block to the right and on top
+1104,11,[Builder puts down a purple block at X:4 Y:1 Z:5]
+1104,12,[Builder puts down a purple block at X:5 Y:2 Z:5]
+1104,13,<Architect> ok now repeat that shape but in blue and offset the starting block one space to the right and one space down
+1104,14,<Architect> from the original block
+1104,15,[Builder puts down a purple block at X:4 Y:1 Z:3]
+1104,16,[Builder picks up a purple block at X:4 Y:1 Z:3]
+1104,17,[Builder puts down a blue block at X:4 Y:1 Z:3]
+1104,18,[Builder puts down a blue block at X:3 Y:1 Z:3]
+1104,19,[Builder puts down a blue block at X:4 Y:2 Z:3]
+1104,20,<Builder> like that?
+1104,21,"<Architect> close, move the structure up one space"
+1104,22,<Builder> so they are touching?
+1104,23,[Builder picks up a blue block at X:4 Y:2 Z:3]
+1104,24,[Builder picks up a blue block at X:4 Y:1 Z:3]
+1104,25,[Builder picks up a blue block at X:3 Y:1 Z:3]
+1104,26,[Builder puts down a blue block at X:4 Y:1 Z:4]
+1104,27,[Builder puts down a blue block at X:3 Y:1 Z:4]
+1104,28,[Builder puts down a blue block at X:4 Y:2 Z:4]
+1104,29,<Architect> yes
+1104,30,"<Architect> now do that four more times in the order green, yellow, orange, and red"
+1104,31,[Builder puts down a green block at X:3 Y:1 Z:3]
+1104,32,[Builder puts down a green block at X:2 Y:1 Z:3]
+1104,33,[Builder puts down a green block at X:3 Y:2 Z:3]
+1104,34,[Builder puts down a yellow block at X:2 Y:1 Z:2]
+1104,35,[Builder puts down a yellow block at X:1 Y:1 Z:2]
+1104,36,[Builder puts down a yellow block at X:2 Y:2 Z:2]
+1104,37,[Builder puts down a orange block at X:1 Y:1 Z:1]
+1104,38,[Builder puts down a orange block at X:0 Y:1 Z:1]
+1104,39,[Builder puts down a orange block at X:1 Y:2 Z:1]
+1104,40,[Builder puts down a red block at X:0 Y:1 Z:0]
+1104,41,[Builder puts down a red block at X:-1 Y:1 Z:0]
+1104,42,[Builder puts down a red block at X:0 Y:2 Z:0]
+1104,43,<Builder> like that?
+1104,44,<Architect> excellent
+1107,,3-30-overlapping-reticles
+1107,1,<Builder> Mission has started.
+1107,2,<Builder> hello architect
+1107,3,<Builder> it appears our creators are having problems...
+1107,4,<Architect> indeed it does
+1107,5,<Builder> i am ready when you are
+1107,6,<Architect> ok we are going to make three crosses
+1107,7,<Architect> start with blue and build three blocks on top of each other
+1107,8,<Builder> does it matter where?
+1107,9,<Architect> right in the middle is good
+1107,10,[Builder puts down a blue block at X:0 Y:1 Z:0]
+1107,11,[Builder puts down a blue block at X:0 Y:2 Z:0]
+1107,12,[Builder puts down a blue block at X:0 Y:3 Z:0]
+1107,13,<Architect> now make the two arms on the second level
+1107,14,[Builder puts down a blue block at X:0 Y:2 Z:-1]
+1107,15,[Builder puts down a blue block at X:0 Y:2 Z:1]
+1107,16,<Builder> like so?
+1107,17,"<Architect> exactly, you now want to remove the center block"
+1107,18,[Builder picks up a blue block at X:0 Y:2 Z:0]
+1107,19,<Builder> is this good?
+1107,20,<Architect> great
+1107,21,<Architect> Ok we are going to do the same thing with a green cross
+1107,22,<Architect> start the base block to the upper left corner of the blue one
+1107,23,<Architect> the blue starting block that is
+1107,24,[Builder puts down a green block at X:0 Y:3 Z:1]
+1107,25,<Builder> i'm not sure i understand
+1107,26,<Architect> It is also on the ground
+1107,27,[Builder picks up a green block at X:0 Y:3 Z:1]
+1107,28,[Builder puts down a green block at X:-1 Y:1 Z:1]
+1107,29,<Builder> there?
+1107,30,<Architect> Yep that's perfect
+1107,31,<Architect> now do build another cross
+1107,32,[Builder puts down a green block at X:-1 Y:2 Z:1]
+1107,33,[Builder puts down a green block at X:-1 Y:3 Z:1]
+1107,34,[Builder puts down a green block at X:-1 Y:2 Z:0]
+1107,35,[Builder puts down a green block at X:-1 Y:2 Z:2]
+1107,36,[Builder picks up a green block at X:-1 Y:2 Z:1]
+1107,37,<Architect> great
+1107,38,<Builder> thank you architect
+1107,39,<Architect> No problem
+1107,40,<Architect> Now we are going to build the last cross in purple
+1107,41,<Architect> the base is located two blocks north of the right most blue block
+1107,42,[Builder puts down a purple block at X:-2 Y:1 Z:-1]
+1107,43,<Builder> there?
+1107,44,<Architect> yes
+1107,45,<Builder> shall i fill it in?
+1107,46,<Architect> now just build another cross
+1107,47,[Builder puts down a purple block at X:-2 Y:2 Z:-1]
+1107,48,[Builder puts down a purple block at X:-2 Y:2 Z:0]
+1107,49,[Builder puts down a purple block at X:-2 Y:2 Z:-2]
+1107,50,[Builder puts down a purple block at X:-2 Y:3 Z:-1]
+1107,51,[Builder picks up a purple block at X:-2 Y:2 Z:-1]
+1107,52,<Builder> is it complete?
+1107,53,<Architect> you did it!
+1107,54,"<Builder> no, WE did it"
+1107,55,<Builder> good job architect
+1107,56,<Architect> aw thanks champ
+1102,,3-30-asterisk
+1102,1,<Builder> Mission has started.
+1102,2,<Builder> hello once again architect
+1102,3,<Architect> Get ready for a big one
+1102,4,<Builder> i am ready if you will lead me
+1102,5,<Architect> all the blocks lie on the ground
+1102,6,<Builder> understood
+1102,7,<Architect> start in the very center and make a three by three green square
+1102,8,[Builder puts down a green block at X:2 Y:1 Z:-1]
+1102,9,[Builder puts down a green block at X:2 Y:1 Z:0]
+1102,10,[Builder puts down a green block at X:2 Y:1 Z:1]
+1102,11,[Builder puts down a green block at X:1 Y:1 Z:1]
+1102,12,[Builder puts down a green block at X:0 Y:1 Z:1]
+1102,13,[Builder puts down a green block at X:-1 Y:1 Z:1]
+1102,14,[Builder puts down a green block at X:-1 Y:1 Z:0]
+1102,15,[Builder puts down a green block at X:-1 Y:1 Z:-1]
+1102,16,[Builder puts down a green block at X:0 Y:1 Z:-1]
+1102,17,[Builder picks up a green block at X:-1 Y:1 Z:0]
+1102,18,[Builder picks up a green block at X:-1 Y:1 Z:1]
+1102,19,[Builder picks up a green block at X:-1 Y:1 Z:-1]
+1102,20,[Builder picks up a green block at X:0 Y:1 Z:-1]
+1102,21,[Builder puts down a green block at X:0 Y:1 Z:0]
+1102,22,[Builder puts down a green block at X:0 Y:1 Z:-1]
+1102,23,[Builder puts down a green block at X:1 Y:1 Z:-1]
+1102,24,[Builder puts down a green block at X:1 Y:1 Z:0]
+1102,25,<Builder> do i need to shift it?
+1102,26,<Architect> yes
+1102,27,[Builder puts down a green block at X:-1 Y:1 Z:1]
+1102,28,[Builder puts down a green block at X:-1 Y:1 Z:0]
+1102,29,[Builder puts down a green block at X:-1 Y:1 Z:-2]
+1102,30,[Builder puts down a green block at X:-1 Y:1 Z:-1]
+1102,31,[Builder picks up a green block at X:-1 Y:1 Z:-2]
+1102,32,[Builder picks up a green block at X:2 Y:1 Z:-1]
+1102,33,[Builder picks up a green block at X:2 Y:1 Z:0]
+1102,34,[Builder picks up a green block at X:2 Y:1 Z:1]
+1102,35,<Builder> how about that?
+1102,36,<Architect> terrific
+1102,37,<Architect> ok so now we are going to build a kind of ring around this square
+1102,38,<Architect> put green blocks next to the middle green blocks of the square
+1102,39,"<Builder> ok, is it touching or space in between?"
+1102,40,[Builder puts down a green block at X:0 Y:1 Z:-2]
+1102,41,[Builder puts down a green block at X:-2 Y:1 Z:0]
+1102,42,[Builder puts down a green block at X:0 Y:1 Z:2]
+1102,43,[Builder puts down a green block at X:2 Y:1 Z:0]
+1102,44,<Architect> great
+1102,45,<Architect> now add the green squares in the corner of the square
+1102,46,[Builder puts down a green block at X:-2 Y:1 Z:-2]
+1102,47,[Builder puts down a green block at X:3 Y:1 Z:-2]
+1102,48,<Architect> the original square
+1102,49,[Builder picks up a green block at X:3 Y:1 Z:-2]
+1102,50,<Architect> yeah like that
+1102,51,[Builder puts down a green block at X:2 Y:1 Z:-2]
+1102,52,[Builder puts down a green block at X:2 Y:1 Z:2]
+1102,53,[Builder puts down a green block at X:-2 Y:1 Z:2]
+1102,54,<Architect> excellent
+1102,55,<Architect> We are now switching to blue
+1102,56,<Builder> ok
+1102,57,"<Architect> for the four squares that come out from the middle blocks, add two blue blocks on"
+1102,58,[Builder puts down a blue block at X:-3 Y:1 Z:0]
+1102,59,[Builder puts down a blue block at X:-4 Y:1 Z:0]
+1102,60,<Architect> yeah great
+1102,61,[Builder puts down a blue block at X:0 Y:1 Z:3]
+1102,62,[Builder puts down a blue block at X:0 Y:1 Z:4]
+1102,63,[Builder puts down a blue block at X:3 Y:1 Z:0]
+1102,64,[Builder puts down a blue block at X:4 Y:1 Z:0]
+1102,65,[Builder puts down a blue block at X:0 Y:1 Z:-3]
+1102,66,[Builder puts down a blue block at X:0 Y:1 Z:-4]
+1102,67,"<Architect> now for the ones that came out from the corner, you want to continue that diagonal with two more blue blocks"
+1102,68,[Builder puts down a blue block at X:-3 Y:1 Z:-3]
+1102,69,[Builder puts down a blue block at X:-4 Y:1 Z:-4]
+1102,70,<Builder> like that?
+1102,71,<Architect> exactly
+1102,72,[Builder puts down a blue block at X:3 Y:1 Z:-3]
+1102,73,[Builder puts down a blue block at X:4 Y:1 Z:-4]
+1102,74,[Builder puts down a blue block at X:3 Y:1 Z:3]
+1102,75,[Builder puts down a blue block at X:4 Y:1 Z:4]
+1102,76,[Builder puts down a blue block at X:-3 Y:1 Z:3]
+1102,77,[Builder puts down a blue block at X:-4 Y:1 Z:4]
+1102,78,<Architect> beautiful
+1102,79,<Builder> is it finished?
+1102,80,"<Architect> yes, now die"
+1111,,3-30-suspension-bridge
+1111,1,<Builder> Mission has started.
+1111,2,<Builder> hello architect
+1111,3,<Builder> i am born again
+1111,4,<Architect> rise my son
+1111,5,<Builder> i am ready to build father
+1111,6,<Architect> ok this thing looks kind of like a suspensionn bridge
+1111,7,"<Builder> ok, my knowledge in engineering is limited so please use much detail"
+1111,8,<Architect> okie dokie
+1111,9,<Architect> start with two red blocks along the side of the domain
+1111,10,<Builder> does it matter which side?
+1111,11,[Builder puts down a red block at X:-5 Y:1 Z:-2]
+1111,12,[Builder puts down a red block at X:-5 Y:1 Z:-3]
+1111,13,[Builder picks up a red block at X:-5 Y:1 Z:-3]
+1111,14,[Builder picks up a red block at X:-5 Y:1 Z:-2]
+1111,15,[Builder puts down a red block at X:-5 Y:1 Z:0]
+1111,16,[Builder puts down a red block at X:-5 Y:1 Z:-1]
+1111,17,<Architect> no
+1111,18,<Architect> ok now you want to do that exactly opposite but one block in this time
+1111,19,[Builder puts down a red block at X:4 Y:1 Z:0]
+1111,20,[Builder puts down a red block at X:4 Y:1 Z:-1]
+1111,21,<Builder> like that?
+1111,22,"<Architect> yes, now add a purple layer on top that connects the two bases"
+1111,23,[Builder puts down a purple block at X:4 Y:2 Z:-1]
+1111,24,[Builder puts down a purple block at X:4 Y:2 Z:0]
+1111,25,[Builder puts down a purple block at X:3 Y:2 Z:-1]
+1111,26,[Builder puts down a purple block at X:3 Y:2 Z:0]
+1111,27,[Builder puts down a purple block at X:2 Y:2 Z:-1]
+1111,28,[Builder puts down a purple block at X:2 Y:2 Z:0]
+1111,29,[Builder puts down a purple block at X:1 Y:2 Z:-1]
+1111,30,[Builder puts down a purple block at X:1 Y:2 Z:0]
+1111,31,[Builder puts down a purple block at X:0 Y:2 Z:-1]
+1111,32,[Builder puts down a purple block at X:0 Y:2 Z:0]
+1111,33,[Builder puts down a purple block at X:-1 Y:2 Z:-1]
+1111,34,[Builder puts down a purple block at X:-1 Y:2 Z:0]
+1111,35,[Builder puts down a purple block at X:-2 Y:2 Z:-1]
+1111,36,[Builder puts down a purple block at X:-2 Y:2 Z:0]
+1111,37,[Builder puts down a purple block at X:-3 Y:2 Z:-1]
+1111,38,[Builder puts down a purple block at X:-3 Y:2 Z:0]
+1111,39,[Builder puts down a purple block at X:-4 Y:2 Z:0]
+1111,40,[Builder puts down a purple block at X:-4 Y:2 Z:-1]
+1111,41,[Builder puts down a purple block at X:-5 Y:2 Z:-1]
+1111,42,[Builder puts down a purple block at X:-5 Y:2 Z:0]
+1111,43,<Architect> great
+1111,44,<Architect> ok now we are going to make the bridge towers
+1111,45,<Builder> ok
+1111,46,<Architect> place an orange brick to the lower right corner of the left bottom red block
+1111,47,[Builder puts down a orange block at X:3 Y:1 Z:-2]
+1111,48,<Architect> yeah!
+1111,49,<Architect> ok put three more orange blocks on top
+1111,50,[Builder puts down a orange block at X:3 Y:2 Z:-2]
+1111,51,[Builder puts down a orange block at X:3 Y:3 Z:-2]
+1111,52,[Builder puts down a orange block at X:3 Y:4 Z:-2]
+1111,53,<Architect> now cross over the top of the bridge with three more orange blocks
+1111,54,[Builder puts down a orange block at X:3 Y:4 Z:-1]
+1111,55,[Builder puts down a orange block at X:3 Y:4 Z:0]
+1111,56,[Builder puts down a orange block at X:3 Y:4 Z:1]
+1111,57,<Architect> these are attached to the top most orange block
+1111,58,<Architect> nice
+1111,59,<Architect> now build that down to the ground like on the other side
+1111,60,[Builder puts down a orange block at X:3 Y:3 Z:1]
+1111,61,[Builder puts down a orange block at X:3 Y:2 Z:1]
+1111,62,[Builder puts down a orange block at X:3 Y:1 Z:1]
+1111,63,<Builder> shall we do the same on the other side of the bridge?
+1111,64,<Architect> we shall
+1111,65,<Builder> same color?
+1111,66,<Architect> yes
+1111,67,[Builder puts down a orange block at X:-4 Y:1 Z:-2]
+1111,68,[Builder puts down a orange block at X:-4 Y:2 Z:-2]
+1111,69,[Builder puts down a orange block at X:-4 Y:3 Z:-2]
+1111,70,[Builder puts down a orange block at X:-4 Y:4 Z:-2]
+1111,71,[Builder puts down a orange block at X:-4 Y:4 Z:-1]
+1111,72,[Builder puts down a orange block at X:-5 Y:4 Z:0]
+1111,73,[Builder picks up a orange block at X:-5 Y:4 Z:0]
+1111,74,[Builder puts down a orange block at X:-4 Y:4 Z:1]
+1111,75,[Builder puts down a orange block at X:-4 Y:3 Z:1]
+1111,76,[Builder puts down a orange block at X:-4 Y:2 Z:1]
+1111,77,[Builder puts down a orange block at X:-4 Y:1 Z:1]
+1111,78,<Architect> great
+1111,79,<Builder> have we completed our goal?
+1111,80,<Architect> not yet
+1111,81,<Builder> standing by
+1111,82,<Architect> now we need to place a yellow block on top of the four orange posts
+1111,83,[Builder puts down a yellow block at X:-4 Y:5 Z:-2]
+1111,84,[Builder puts down a yellow block at X:-4 Y:5 Z:1]
+1111,85,[Builder puts down a yellow block at X:3 Y:5 Z:1]
+1111,86,[Builder puts down a yellow block at X:3 Y:5 Z:-2]
+1111,87,<Architect> great
+1111,88,<Architect> add yellow blocks on top and connect them across the bridge
+1111,89,[Builder puts down a yellow block at X:3 Y:6 Z:-2]
+1111,90,[Builder puts down a yellow block at X:2 Y:6 Z:-2]
+1111,91,[Builder puts down a yellow block at X:1 Y:6 Z:-2]
+1111,92,<Architect> wait
+1111,93,[Builder picks up a yellow block at X:1 Y:6 Z:-2]
+1111,94,<Architect> other way
+1111,95,[Builder picks up a yellow block at X:3 Y:6 Z:-2]
+1111,96,[Builder picks up a orange block at X:-4 Y:1 Z:-2]
+1111,97,<Architect> basically like the orange ones
+1111,98,[Builder puts down a yellow block at X:3 Y:6 Z:-2]
+1111,99,[Builder puts down a yellow block at X:3 Y:6 Z:-1]
+1111,100,[Builder puts down a yellow block at X:3 Y:6 Z:0]
+1111,101,[Builder puts down a yellow block at X:3 Y:6 Z:1]
+1111,102,<Builder> like that?
+1111,103,<Architect> yeah nice
+1111,104,[Builder puts down a yellow block at X:-4 Y:6 Z:-2]
+1111,105,[Builder puts down a yellow block at X:-4 Y:6 Z:1]
+1111,106,[Builder puts down a yellow block at X:-4 Y:6 Z:0]
+1111,107,[Builder puts down a yellow block at X:-4 Y:6 Z:-1]
+1111,108,<Architect> ok now we need to build the suspension rigging
+1111,109,<Builder> ok i don't know what that means but i trust you architect
+1111,110,<Architect> start with red blocks
+1111,111,<Architect> place them next to the top yellow blocks on the posts so they are on the inside of the bridge
+1111,112,[Builder puts down a red block at X:2 Y:6 Z:-2]
+1111,113,<Architect> that wasn't clear sorry
+1111,114,<Builder> here?
+1111,115,<Architect> oh yeah great
+1111,116,[Builder puts down a red block at X:2 Y:6 Z:1]
+1111,117,[Builder puts down a red block at X:-3 Y:6 Z:1]
+1111,118,[Builder puts down a red block at X:-3 Y:6 Z:-2]
+1111,119,<Architect> ok we are going to need a placeholder block so use green or blue
+1111,120,<Builder> roger that
+1111,121,[Builder puts down a green block at X:1 Y:6 Z:-2]
+1111,122,"<Architect> cool, put it right below all of the red blocks you just added"
+1111,123,[Builder puts down a green block at X:1 Y:6 Z:1]
+1111,124,[Builder picks up a green block at X:1 Y:6 Z:1]
+1111,125,[Builder picks up a green block at X:1 Y:6 Z:-2]
+1111,126,[Builder puts down a green block at X:2 Y:5 Z:-2]
+1111,127,[Builder puts down a green block at X:-3 Y:5 Z:-2]
+1111,128,[Builder puts down a green block at X:-3 Y:5 Z:1]
+1111,129,[Builder puts down a green block at X:2 Y:5 Z:1]
+1111,130,"<Architect> great, now add another red block next to each green one"
+1111,131,[Builder puts down a red block at X:1 Y:5 Z:-2]
+1111,132,[Builder puts down a red block at X:1 Y:5 Z:1]
+1111,133,<Architect> yep
+1111,134,[Builder puts down a red block at X:-2 Y:5 Z:1]
+1111,135,[Builder puts down a red block at X:-2 Y:5 Z:-2]
+1111,136,[Builder picks up a green block at X:-3 Y:5 Z:1]
+1111,137,[Builder picks up a green block at X:2 Y:5 Z:1]
+1111,138,[Builder picks up a green block at X:2 Y:5 Z:-2]
+1111,139,[Builder picks up a green block at X:-3 Y:5 Z:-2]
+1111,140,<Architect> add another green block below each red one you added
+1111,141,[Builder puts down a green block at X:1 Y:4 Z:-2]
+1111,142,[Builder puts down a green block at X:1 Y:4 Z:1]
+1111,143,[Builder puts down a green block at X:-2 Y:4 Z:1]
+1111,144,[Builder puts down a green block at X:-2 Y:4 Z:-2]
+1111,145,<Architect> then connect across with two red blocks
+1111,146,[Builder puts down a red block at X:0 Y:4 Z:-2]
+1111,147,[Builder puts down a red block at X:-1 Y:4 Z:-2]
+1111,148,[Builder puts down a red block at X:0 Y:5 Z:1]
+1111,149,[Builder puts down a red block at X:-1 Y:5 Z:1]
+1111,150,[Builder picks up a green block at X:1 Y:4 Z:1]
+1111,151,[Builder picks up a green block at X:-2 Y:4 Z:1]
+1111,152,[Builder picks up a green block at X:-2 Y:4 Z:-2]
+1111,153,[Builder picks up a green block at X:1 Y:4 Z:-2]
+1111,154,[Builder puts down a green block at X:-2 Y:4 Z:1]
+1111,155,<Architect> what a masterpiece!
+1111,156,<Builder> wait
+1111,157,<Builder> i think i messed up
+1111,158,[Builder picks up a red block at X:-1 Y:5 Z:1]
+1111,159,[Builder picks up a red block at X:0 Y:5 Z:1]
+1111,160,[Builder puts down a green block at X:1 Y:4 Z:1]
+1111,161,[Builder puts down a red block at X:0 Y:4 Z:1]
+1111,162,<Architect> lols yeah the one side is correct
+1111,163,[Builder puts down a red block at X:-1 Y:4 Z:1]
+1111,164,[Builder picks up a green block at X:-2 Y:4 Z:1]
+1111,165,[Builder picks up a green block at X:1 Y:4 Z:1]
+1111,166,<Architect> yay!
+1111,167,<Builder> we good now?
+1111,168,<Architect> yep
+1111,169,<Builder> awesome!
+1109,,3-30-slide-with-arch
+1109,1,<Builder> Mission has started.
+1109,2,"<Builder> hello architect, my only friend and parent"
+1109,3,<Architect> hello my child
+1109,4,<Architect> alright this thing looks like an artistic staircase
+1109,5,"<Builder> ok, is it straight or spiraling?"
+1109,6,<Architect> straight
+1109,7,<Builder> roger that. i am ready to build
+1109,8,<Architect> it will have a red tower at one end and a green one in the middle
+1109,9,<Architect> let's start with the red tower
+1109,10,<Builder> ok
+1109,11,"<Architect> cool, place a red block along the edge near the center of the row"
+1109,12,[Builder puts down a red block at X:-5 Y:1 Z:0]
+1109,13,"<Architect> great, skip a space and place anothe rone"
+1109,14,<Builder> on the edge or toward the center?
+1109,15,[Builder puts down a red block at X:-5 Y:1 Z:-2]
+1109,16,[Builder puts down a red block at X:-3 Y:1 Z:0]
+1109,17,<Architect> along the edge
+1109,18,[Builder picks up a red block at X:-3 Y:1 Z:0]
+1109,19,<Builder> got it
+1109,20,<Architect> go up a row and connect them
+1109,21,[Builder puts down a red block at X:-5 Y:2 Z:0]
+1109,22,[Builder puts down a red block at X:-5 Y:2 Z:-2]
+1109,23,[Builder puts down a red block at X:-5 Y:2 Z:-1]
+1109,24,<Architect> now just build two on top of the posts
+1109,25,[Builder puts down a red block at X:-5 Y:3 Z:0]
+1109,26,[Builder puts down a red block at X:-5 Y:3 Z:-2]
+1109,27,<Builder> it looks like an H
+1109,28,"<Architect> great, go up another row and connect them"
+1109,29,[Builder puts down a red block at X:-5 Y:4 Z:0]
+1109,30,[Builder puts down a red block at X:-5 Y:4 Z:-1]
+1109,31,<Architect> that it does
+1109,32,[Builder puts down a red block at X:-5 Y:4 Z:-2]
+1109,33,<Builder> now its an A
+1109,34,<Builder> HA
+1109,35,<Architect> what a joke
+1109,36,<Builder> sorry lets continue
+1109,37,"<Architect> ok, now do the posts again and connect"
+1109,38,[Builder puts down a red block at X:-5 Y:5 Z:-2]
+1109,39,[Builder puts down a red block at X:-5 Y:5 Z:0]
+1109,40,[Builder puts down a red block at X:-5 Y:6 Z:0]
+1109,41,[Builder puts down a red block at X:-5 Y:6 Z:-1]
+1109,42,[Builder puts down a red block at X:-5 Y:6 Z:-2]
+1109,43,<Builder> like so?
+1109,44,"<Architect> yes, build a row of three next to the top three"
+1109,45,<Architect> into the space
+1109,46,[Builder puts down a red block at X:-4 Y:6 Z:0]
+1109,47,[Builder puts down a red block at X:-4 Y:6 Z:-1]
+1109,48,[Builder puts down a red block at X:-4 Y:6 Z:-2]
+1109,49,<Builder> like that?
+1109,50,"<Architect> yes, put a placeholder row of orange blocks below that"
+1109,51,[Builder puts down a orange block at X:-4 Y:5 Z:-2]
+1109,52,[Builder puts down a orange block at X:-4 Y:5 Z:-1]
+1109,53,[Builder puts down a orange block at X:-4 Y:5 Z:0]
+1109,54,<Architect> then next to those put a row of purple
+1109,55,[Builder puts down a purple block at X:-3 Y:5 Z:-2]
+1109,56,[Builder puts down a purple block at X:-3 Y:5 Z:-1]
+1109,57,[Builder puts down a purple block at X:-3 Y:5 Z:0]
+1109,58,<Architect> then remove orange
+1109,59,[Builder picks up a orange block at X:-4 Y:5 Z:-2]
+1109,60,[Builder picks up a orange block at X:-4 Y:5 Z:-1]
+1109,61,[Builder picks up a orange block at X:-4 Y:5 Z:0]
+1109,62,<Architect> that is going to be the top of the stars
+1109,63,<Architect> stairs
+1109,64,<Builder> ok
+1109,65,<Architect> repeat that process until you reach the ground
+1109,66,<Builder> with purple being all of the stairs?
+1109,67,<Architect> yes
+1109,68,[Builder puts down a orange block at X:-3 Y:4 Z:-2]
+1109,69,[Builder puts down a orange block at X:-3 Y:4 Z:-1]
+1109,70,[Builder puts down a orange block at X:-3 Y:4 Z:0]
+1109,71,[Builder puts down a purple block at X:-2 Y:4 Z:-2]
+1109,72,[Builder puts down a purple block at X:-2 Y:4 Z:-1]
+1109,73,[Builder puts down a purple block at X:-2 Y:4 Z:0]
+1109,74,[Builder picks up a orange block at X:-3 Y:4 Z:0]
+1109,75,[Builder picks up a orange block at X:-3 Y:4 Z:-1]
+1109,76,[Builder picks up a orange block at X:-3 Y:4 Z:-2]
+1109,77,[Builder puts down a orange block at X:-2 Y:3 Z:-2]
+1109,78,[Builder puts down a orange block at X:-2 Y:3 Z:-1]
+1109,79,[Builder puts down a orange block at X:-2 Y:3 Z:0]
+1109,80,[Builder puts down a purple block at X:-1 Y:3 Z:-2]
+1109,81,[Builder puts down a purple block at X:-1 Y:3 Z:-1]
+1109,82,[Builder puts down a purple block at X:-1 Y:3 Z:0]
+1109,83,[Builder picks up a orange block at X:-2 Y:3 Z:-2]
+1109,84,[Builder picks up a orange block at X:-2 Y:3 Z:-1]
+1109,85,[Builder picks up a orange block at X:-2 Y:3 Z:0]
+1109,86,[Builder puts down a orange block at X:-1 Y:2 Z:-2]
+1109,87,[Builder puts down a orange block at X:-1 Y:2 Z:-1]
+1109,88,[Builder puts down a orange block at X:-1 Y:2 Z:0]
+1109,89,[Builder puts down a purple block at X:0 Y:2 Z:-2]
+1109,90,[Builder puts down a purple block at X:0 Y:2 Z:-1]
+1109,91,[Builder puts down a purple block at X:0 Y:2 Z:0]
+1109,92,[Builder puts down a purple block at X:1 Y:1 Z:-2]
+1109,93,[Builder puts down a purple block at X:1 Y:1 Z:-1]
+1109,94,[Builder puts down a purple block at X:1 Y:1 Z:0]
+1109,95,[Builder picks up a orange block at X:-1 Y:2 Z:-2]
+1109,96,[Builder picks up a orange block at X:-1 Y:2 Z:-1]
+1109,97,[Builder picks up a orange block at X:-1 Y:2 Z:0]
+1109,98,<Architect> excellent
+1109,99,<Builder> thank you architect
+1109,100,<Architect> now on either side of the third stair build a tower of six green blocks
+1109,101,[Builder puts down a green block at X:-1 Y:1 Z:-3]
+1109,102,<Builder> here?
+1109,103,[Builder puts down a green block at X:-1 Y:1 Z:1]
+1109,104,<Architect> yeah
+1109,105,[Builder puts down a green block at X:-1 Y:2 Z:1]
+1109,106,[Builder puts down a green block at X:-1 Y:3 Z:1]
+1109,107,[Builder puts down a green block at X:-1 Y:4 Z:1]
+1109,108,[Builder puts down a green block at X:-1 Y:5 Z:1]
+1109,109,[Builder puts down a green block at X:-1 Y:6 Z:1]
+1109,110,[Builder puts down a green block at X:-1 Y:2 Z:-3]
+1109,111,[Builder puts down a green block at X:-1 Y:3 Z:-3]
+1109,112,[Builder puts down a green block at X:-1 Y:4 Z:-3]
+1109,113,[Builder puts down a green block at X:-1 Y:5 Z:-3]
+1109,114,[Builder puts down a green block at X:-1 Y:6 Z:-3]
+1109,115,<Architect> then you want to connect those across on the same row as the sixth block
+1109,116,[Builder puts down a green block at X:-1 Y:6 Z:0]
+1109,117,[Builder puts down a green block at X:-1 Y:6 Z:-2]
+1109,118,[Builder puts down a green block at X:-1 Y:6 Z:-1]
+1109,119,<Architect> beautiful art
+1109,120,<Builder> indeed it is
+1109,121,<Builder> are we finished?
+1109,122,<Architect> yessir
+1103,,3-30-broken-heart
+1103,1,<Builder> Mission has started.
+1103,2,"<Builder> hello once again architect, my only friend and parent"
+1103,3,<Builder> what are we building today?
+1103,4,<Architect> we are building a heart
+1103,5,<Builder> anatomical or figurative?
+1103,6,"<Architect> figurative, it looks diseased as well"
+1103,7,"<Builder> oh my, well let's see what we can do about that"
+1103,8,<Architect> ok start in the very center with one red block
+1103,9,[Builder puts down a red block at X:0 Y:1 Z:-1]
+1103,10,[Builder picks up a red block at X:0 Y:1 Z:-1]
+1103,11,[Builder puts down a red block at X:0 Y:1 Z:0]
+1103,12,<Architect> heart is perpendicular to the ground
+1103,13,[Builder puts down a red block at X:0 Y:2 Z:0]
+1103,14,<Architect> so we are going to need blue placeholders to the left and right of the base block
+1103,15,[Builder picks up a red block at X:0 Y:2 Z:0]
+1103,16,[Builder puts down a blue block at X:-1 Y:1 Z:0]
+1103,17,[Builder puts down a blue block at X:1 Y:1 Z:0]
+1103,18,[Builder puts down a red block at X:1 Y:2 Z:0]
+1103,19,[Builder puts down a red block at X:-1 Y:2 Z:0]
+1103,20,<Builder> like that?
+1103,21,<Architect> you got it
+1103,22,<Architect> do that twice more
+1103,23,[Builder puts down a blue block at X:-2 Y:2 Z:0]
+1103,24,[Builder puts down a blue block at X:2 Y:2 Z:0]
+1103,25,[Builder puts down a red block at X:2 Y:3 Z:0]
+1103,26,[Builder puts down a red block at X:-2 Y:3 Z:0]
+1103,27,[Builder puts down a blue block at X:-3 Y:3 Z:0]
+1103,28,[Builder puts down a blue block at X:3 Y:3 Z:0]
+1103,29,[Builder puts down a red block at X:3 Y:4 Z:0]
+1103,30,[Builder puts down a red block at X:-3 Y:4 Z:0]
+1103,31,<Architect> ok now you can get rid of the blue blocks
+1103,32,[Builder picks up a blue block at X:3 Y:3 Z:0]
+1103,33,[Builder picks up a blue block at X:2 Y:2 Z:0]
+1103,34,[Builder picks up a blue block at X:1 Y:1 Z:0]
+1103,35,[Builder picks up a blue block at X:-1 Y:1 Z:0]
+1103,36,[Builder picks up a blue block at X:-2 Y:2 Z:0]
+1103,37,[Builder picks up a blue block at X:-3 Y:3 Z:0]
+1103,38,<Builder> ok
+1103,39,<Architect> build a red block on top of each of the top red blocks
+1103,40,[Builder puts down a red block at X:3 Y:5 Z:0]
+1103,41,[Builder puts down a red block at X:-3 Y:5 Z:0]
+1103,42,<Architect> now build towards the center with two more red blocks per side
+1103,43,[Builder puts down a red block at X:2 Y:5 Z:0]
+1103,44,[Builder puts down a red block at X:1 Y:5 Z:0]
+1103,45,[Builder puts down a red block at X:-2 Y:5 Z:0]
+1103,46,[Builder puts down a red block at X:-1 Y:5 Z:0]
+1103,47,<Architect> put a placeholder block in between
+1103,48,[Builder puts down a blue block at X:0 Y:5 Z:0]
+1103,49,[Builder puts down a red block at X:0 Y:4 Z:0]
+1103,50,<Architect> and then another red one below that
+1103,51,[Builder picks up a blue block at X:0 Y:5 Z:0]
+1103,52,<Architect> yep
+1103,53,<Architect> ok time to build the disease
+1103,54,<Builder> i am ready
+1103,55,<Architect> switch to orange
+1103,56,[Builder puts down a orange block at X:-2 Y:5 Z:-1]
+1103,57,[Builder puts down a orange block at X:-3 Y:5 Z:-1]
+1103,58,[Builder puts down a orange block at X:-3 Y:4 Z:-1]
+1103,59,[Builder picks up a orange block at X:-2 Y:5 Z:-1]
+1103,60,[Builder picks up a orange block at X:-3 Y:5 Z:-1]
+1103,61,[Builder picks up a orange block at X:-3 Y:4 Z:-1]
+1103,62,<Architect> place an orange block to the right of the base red block with two spaces in between
+1103,63,[Builder puts down a orange block at X:-3 Y:1 Z:0]
+1103,64,<Architect> nice
+1103,65,<Architect> now put one diagonally above to the left of that orange block
+1103,66,[Builder puts down a orange block at X:-2 Y:2 Z:0]
+1103,67,<Architect> and then do it again
+1103,68,[Builder puts down a orange block at X:-1 Y:3 Z:0]
+1103,69,[Builder puts down a orange block at X:2 Y:6 Z:0]
+1103,70,<Architect> yes actually
+1103,71,<Architect> ok there is like a floating l to the upper left so now we are going to build that
+1103,72,[Builder puts down a orange block at X:3 Y:6 Z:0]
+1103,73,[Builder picks up a orange block at X:3 Y:6 Z:0]
+1103,74,<Builder> ok
+1103,75,<Architect> put two blue blocks on top of the upper left orange block
+1103,76,[Builder puts down a blue block at X:2 Y:7 Z:0]
+1103,77,[Builder puts down a blue block at X:2 Y:8 Z:0]
+1103,78,<Architect> now put two orange blocks to the left
+1103,79,[Builder puts down a orange block at X:3 Y:8 Z:0]
+1103,80,[Builder puts down a orange block at X:4 Y:8 Z:0]
+1103,81,<Architect> and one under the second one
+1103,82,[Builder puts down a orange block at X:4 Y:7 Z:0]
+1103,83,<Architect> now you can get rid of blue
+1103,84,[Builder picks up a blue block at X:2 Y:7 Z:0]
+1103,85,[Builder picks up a blue block at X:2 Y:8 Z:0]
+1103,86,"<Architect> nice, that's it"
+1103,87,<Builder> awesome
